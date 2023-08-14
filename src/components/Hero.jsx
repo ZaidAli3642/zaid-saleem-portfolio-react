@@ -4,7 +4,7 @@ const Hero = () => {
       <div className='container'>
         <h1 className='hero-title load-hidden'>
           Hi, my name is
-          <span className='text-color-main'>Muhammad Zaid Saleem</span>
+          <span className='text-color-main'> Muhammad Zaid Saleem</span>
           <br />
           I'm a MERN STACK Developer.
         </h1>
