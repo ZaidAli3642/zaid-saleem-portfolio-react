@@ -7,6 +7,7 @@ import devArenaCover from './devarena-logo.png'
 import moshifyCover from './moshify.png'
 import roboFriendsCover from './robo-friends-logo.png'
 import smartBrainCover from './smart-brain-logo.png'
+import bogholderietCover from './bogholderiet-logo.png'
 
 export default {
   images: { ownerImage: zaidSaleemImage },
@@ -18,5 +19,6 @@ export default {
     moshifyCover,
     roboFriendsCover,
     smartBrainCover,
+    bogholderietCover,
   },
 }

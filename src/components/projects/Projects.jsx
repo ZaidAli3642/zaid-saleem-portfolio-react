@@ -5,8 +5,8 @@ import allprojects from './allProjects'
 const Projects = () => {
   return (
     <ProjectsWrapper>
-      {allprojects.map(project => (
-        <Project key={project.id} projectDetails={project} />
+      {allprojects.map((project, index) => (
+        <Project key={index} projectDetails={project} />
       ))}
     </ProjectsWrapper>
   )
