@@ -6,7 +6,7 @@ const Hero = () => {
           Hi, my name is
           <span className='text-color-main'> Muhammad Zaid Saleem</span>
           <br />
-          I'm a MERN STACK Developer.
+          I'm a Software Engineer.
         </h1>
         <p className='hero-cta load-hidden'>
           <a rel='noreferrer' className='cta-btn cta-btn--hero' href='#about'>

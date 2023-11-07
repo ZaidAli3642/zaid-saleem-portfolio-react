@@ -11,6 +11,15 @@ const projects = [
     coverImage: assets.cover.bogholderietCover,
   },
   {
+    projectName: 'Smart Brain',
+    projectDescription: 'Smart Brain is a complex application which uses the Clarifai API that detects the face of a single person through submitting URL. It also has the functionality of Register and signin users and all the information will be stored in the Postgres Database. It also show the rank of a person that how many times the user detect an image.',
+    buttonOne: 'See Live',
+    buttonTwo: 'Source Code',
+    buttonOneLink: 'https://smart-brain-nextjs.vercel.app/',
+    buttonTwoLink: 'https://github.com/ZaidAli3642/smart-brain-nextjs',
+    coverImage: assets.cover.smartBrainCover,
+  },
+  {
     projectName: 'Bus Tracking System',
     projectDescription: 'Bus Tracking system is a web and android application that will help parent to tracking their children school bus. User can use google maps to track school bus, emergency alerts, real time communication and so on.',
     buttonOne: 'Android Code',
@@ -36,15 +45,6 @@ const projects = [
     buttonOneLink: 'https://zaidali3642.github.io/robofriends/',
     buttonTwoLink: 'https://github.com/ZaidAli3642/robofriends',
     coverImage: assets.cover.roboFriendsCover,
-  },
-  {
-    projectName: 'SMART BRAIN',
-    projectDescription: 'Smart Brain is a complex application which uses the Clarifai API that detects the face of a single person through submitting URL. It also has the functionality of Register and signin users and all the information will be stored in the Postgres Database. It also show the rank of a person that how many times the user detect an image.',
-    buttonOne: 'See Live',
-    buttonTwo: 'Source Code',
-    buttonOneLink: 'https://smart-brain-react-application.herokuapp.com/',
-    buttonTwoLink: 'https://github.com/ZaidAli3642/smart-brain-react-application',
-    coverImage: assets.cover.smartBrainCover,
   },
   {
     projectName: 'DevArena',
