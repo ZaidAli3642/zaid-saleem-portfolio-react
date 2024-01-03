@@ -13,8 +13,8 @@ const About = () => {
           </div>
           <div className='col-md-6 col-sm-12'>
             <div className='about-wrapper__info load-hidden'>
-              <p className='about-wrapper__info-text'>As an experienced Web and App Developer with a degree in Computer Science and completion of development courses at codewithmosh.com and Zero to Mastery (ZTM), I have honed my skills in creating real-world projects that tackle complex tasks. Through various problem-solving strategies, I have learned to approach tasks with efficiency and creativity, which has allowed me to excel in my recent tasks.</p>
-              <p className='about-wrapper__info-text'>Having completed my internship and gained experience in the IT industry, I am now seeking a challenging position in a reputable company where I can utilize my skills and continue to grow as a developer. I am confident that my technical skills, coupled with my problem-solving abilities, would make a valuable contribution to any team.</p>
+              <p className='about-wrapper__info-text'>Full-stack developer with 1+ years of developing experience proficient in front-end, back-end development, and agile methodologies with a strong focus on creating efficient, scalable, and user-friendly web applications.</p>
+              <p className='about-wrapper__info-text'>Demonstrated ability to work collaboratively with cross-functional teams. Passionate about optimizing code efficiency and implementing cutting-edge technologies to deliver high-quality solutions that meet both user needs and business objectives.</p>
               <span className='d-flex mt-3'>
                 <a rel='noreferrer' target='_blank' className='cta-btn cta-btn--resume' href={assets.pdf.myResume}>
                   View Resume
